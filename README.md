@@ -20,10 +20,15 @@ git push -u origin master
 # -------Command----------
 
  npm install 
+ 
  npm install --save @capacitor/core @capacitor/cli
+ 
  ng build
+ 
  npx cap add android
+ 
  npx cap sync
+ 
  npx cap copy
 
 # Follow this link : https://capacitor.ionicframework.com/docs/android/
