@@ -1,0 +1,6 @@
+{
+  "appId": "com.rat",
+  "appName": "RatX",
+  "bundledWebRuntime": false,
+  "webDir": "dist/Rat6"
+}
