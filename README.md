@@ -4,10 +4,15 @@ Capacitor features a native Android runtime that enables developers to communica
 
 
 echo "# Access-Camera-Using-Capacitor" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/Only1Ryu/Access-Camera-Using-Capacitor.git
+
 git push -u origin master
 
 # After forking or Downloading the Repo. you have to must run this command
