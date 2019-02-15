@@ -12,7 +12,7 @@ git push -u origin master
 
 # After forking or Downloading the Repo. you have to must run this command
 
-#-------Command----------
+# -------Command----------
 
 
 # npm install 
