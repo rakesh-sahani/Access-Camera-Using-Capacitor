@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "@capacitor/android": "^1.0.0-beta.17",
-    "@capacitor/cli": "^1.0.0-beta.17",
+    "@capacitor/cli": "^3.0.0",
     "@capacitor/core": "^1.0.0-beta.17",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
